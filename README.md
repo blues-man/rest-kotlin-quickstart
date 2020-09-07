@@ -1,8 +1,18 @@
-# rest-kotlin-quickstart project
+# Kotlin for Quarkus REST quickstart example
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+
+If you want to learn more about Kotlin support (preview) for Quarkus: https://quarkus.io/guides/kotlin
+
+
+# Run in Eclipse Che
+
+Fork this repo and change settings below with your Kubernetes Cluster (e.g. Minikube) running Che server and/or your repo fork:
+
+[![Contribute](https://www.eclipse.org/che/contribute.svg)](https://che-my-eclipse-che.192.168.39.75.nip.io/f?url=https://github.com/blues-man/rest-kotlin-quickstart)
+
 
 ## Running the application in dev mode
 
